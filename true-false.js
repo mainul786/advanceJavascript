@@ -1,14 +1,7 @@
-// falsey
-// 0;
-// NaN;
-// false;
-// "";
+// falsy value list
+// 0,undefine,NaN,false,'';
 // truly
-// {};
-// [];
-// ();
-// " ";
-// '0';
+// {},[],()," ",'0';
 
 const name='rasel';
 if(name){
